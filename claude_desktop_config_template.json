@@ -1,0 +1,11 @@
+"context-window-remaining": {
+  "command": "python",
+  "args": ["-m", "mcp_context_window_remaining"],
+  "cwd": "C:\\Users\\JordanEhrig\\Documents\\GitHub\\tool-combo-chains",
+  "env": {
+    "MCP_MODEL": "gpt-4o-mini",
+    "MCP_MAX_TOK": "128000",
+    "INSTANCE_ID": "Melchior-ContextWin-001",
+    "LOG_LEVEL": "INFO"
+  }
+}
